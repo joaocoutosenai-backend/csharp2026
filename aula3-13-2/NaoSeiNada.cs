@@ -21,4 +21,5 @@ Console.WriteLine("A média é: " + media);
 // Soma os valores de x e y e divide por 2.0 para calcular a média aritmética.
 // O 2.0 garante que a divisão seja feita com número decimal.
 //Console.WriteLine("A média é: " + media); 
+// Double define o tipo das variáveis x, y e media, permitindo armazenar números decimais.
 //
